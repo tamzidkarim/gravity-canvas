@@ -20,7 +20,7 @@
     "browser-sync-webpack-plugin": "^2.2.2",
     "html-webpack-plugin": "^4.0.3",
     "prettier": "^2.0.2",
-    "webpack": "^4.42.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^3.3.11"
   }
 }
